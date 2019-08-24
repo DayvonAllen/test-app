@@ -64,8 +64,8 @@ export class DataService {
         id: 5,
         hiragana: 'お',
         romanji: 'o',
-        exampleSentence: 'おに',
-        translation: 'demon',
+        exampleSentence: 'おとうと',
+        translation: 'little brother',
         choices: ['e', 'i', 'a', 'o'],
         display: ['え','い','あ','お']
     },
@@ -200,7 +200,7 @@ export class DataService {
         hiragana: 'と',
         romanji: 'to',
         exampleSentence: 'とけい',
-        translation: 'watch',
+        translation: 'clock',
         choices: ['tsu', 'te', 'to', 'ta'],
         display: ['つ','て','と','た']
     },
