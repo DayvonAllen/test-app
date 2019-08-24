@@ -712,7 +712,7 @@ export class DataService {
         id: 77,
         hiragana: 'しょ',
         romanji: 'sho',
-        exampleSentence: 'しょうがつ',
+        exampleSentence: 'しょうがく',
         translation: 'elementry school',
         choices: ['kyu', 'sha', 'sho', 'shu'],
         display: ['きゅ','しゃ','しょ','しゅ']
